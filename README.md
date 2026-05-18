@@ -1,10 +1,10 @@
 <div align="center">
 
-### 조연화 Yeonhwa Jo
+### 조연화 Yeonhwa Jo 
+[![Portfolio](https://img.shields.io/badge/Portfolio-PDF-red?style=flat-square&logo=adobe-acrobat-reader)](https://jjoyh0123.github.io/portfolio/jyh_portfolio.pdf)
 
 통신 · AI · 모빌리티 운영 경험을 바탕으로 AI 에이전트와 협업하며 프론트엔드 · 백엔드를 개발합니다
 
-[![Gmail](https://img.shields.io/badge/jjoyh0123@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:jjoyh0123@gmail.com)
 
 </div>
 
